@@ -1,0 +1,73 @@
+{
+    "activate_air_filtration": [
+        "1"
+    ],
+    "adaptive_pressure_advance": [
+        "1"
+    ],
+    "adaptive_pressure_advance_bridges": [
+        "0.014"
+    ],
+    "adaptive_pressure_advance_model": [
+        "0.034,3.36,2000\n0.032,6.72,2000\n0.032,8.40,5000\n0.028,11.76,5000\n0.026,15.12,5000\n0.026,11.76,10000\n0.022,16.80,10000\n0.020,21.00,10000\n"
+    ],
+    "adaptive_pressure_advance_overhangs": [
+        "1"
+    ],
+    "cool_plate_temp": [
+        "40"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "40"
+    ],
+    "default_filament_colour": [
+        "#785700"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "13.99"
+    ],
+    "filament_deretraction_speed": [
+        "50"
+    ],
+    "filament_flow_ratio": [
+        "1.043"
+    ],
+    "filament_max_volumetric_speed": [
+        "18"
+    ],
+    "filament_retraction_length": [
+        "1.6"
+    ],
+    "filament_retraction_speed": [
+        "50"
+    ],
+    "filament_settings_id": [
+        "Elegoo PLA @ECC - Bronze Filled"
+    ],
+    "filament_wipe_distance": [
+        "1.8"
+    ],
+    "from": "User",
+    "full_fan_speed_layer": [
+        "2"
+    ],
+    "inherits": "Elegoo PLA @ECC",
+    "is_custom_defined": "0",
+    "name": "Elegoo PLA @ECC - Bronze Filled",
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "nozzle_temperature_range_high": [
+        "215"
+    ],
+    "nozzle_temperature_range_low": [
+        "210"
+    ],
+    "pressure_advance": [
+        "0.028"
+    ],
+    "version": "1.1.8.1"
+}

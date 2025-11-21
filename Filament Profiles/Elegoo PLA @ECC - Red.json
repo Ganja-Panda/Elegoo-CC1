@@ -1,0 +1,64 @@
+{
+    "activate_air_filtration": [
+        "1"
+    ],
+    "adaptive_pressure_advance": [
+        "1"
+    ],
+    "adaptive_pressure_advance_bridges": [
+        "0.021"
+    ],
+    "adaptive_pressure_advance_model": [
+        "0.044,8.40,5000\n0.042,11.76,5000\n0.036,14.28,5000\n0.038,11.76,10000\n0.030,16.80,10000\n0.028,21.00,10000"
+    ],
+    "adaptive_pressure_advance_overhangs": [
+        "1"
+    ],
+    "cool_plate_temp": [
+        "40"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "40"
+    ],
+    "default_filament_colour": [
+        "#EA140E"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_deretraction_speed": [
+        "45"
+    ],
+    "filament_flow_ratio": [
+        "1.062"
+    ],
+    "filament_max_volumetric_speed": [
+        "200"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_retraction_speed": [
+        "45"
+    ],
+    "filament_settings_id": [
+        "Elegoo PLA @ECC - Red"
+    ],
+    "from": "User",
+    "inherits": "Elegoo PLA @ECC",
+    "is_custom_defined": "0",
+    "name": "Elegoo PLA @ECC - Red",
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "nozzle_temperature_range_high": [
+        "215"
+    ],
+    "nozzle_temperature_range_low": [
+        "210"
+    ],
+    "pressure_advance": [
+        "0.042"
+    ],
+    "version": "1.1.8.1"
+}

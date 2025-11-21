@@ -1,0 +1,70 @@
+{
+    "activate_air_filtration": [
+        "1"
+    ],
+    "adaptive_pressure_advance": [
+        "1"
+    ],
+    "adaptive_pressure_advance_bridges": [
+        "0.22"
+    ],
+    "adaptive_pressure_advance_model": [
+        "0.050,3.36,2000\n0.048,6.72,2000\n0.046,8.40,5000\n0.044,11.76,5000\n0.042,15.12,5000\n0.040,11.76,10000\n0.038,16.80,10000\n0.036,21.00,10000"
+    ],
+    "adaptive_pressure_advance_overhangs": [
+        "1"
+    ],
+    "cool_plate_temp": [
+        "40"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "40"
+    ],
+    "default_filament_colour": [
+        "#2240AF"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "10.5"
+    ],
+    "filament_deretraction_speed": [
+        "45"
+    ],
+    "filament_flow_ratio": [
+        "1.017"
+    ],
+    "filament_max_volumetric_speed": [
+        "18"
+    ],
+    "filament_retraction_length": [
+        "1.2"
+    ],
+    "filament_retraction_speed": [
+        "45"
+    ],
+    "filament_settings_id": [
+        "Elegoo PLA @ECC - Dark Blue"
+    ],
+    "from": "User",
+    "full_fan_speed_layer": [
+        "2"
+    ],
+    "inherits": "Elegoo PLA @ECC",
+    "is_custom_defined": "0",
+    "name": "Elegoo PLA @ECC - Dark Blue",
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "nozzle_temperature_range_high": [
+        "215"
+    ],
+    "nozzle_temperature_range_low": [
+        "210"
+    ],
+    "pressure_advance": [
+        "0.044"
+    ],
+    "version": "1.1.8.1"
+}
