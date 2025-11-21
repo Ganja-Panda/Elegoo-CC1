@@ -15,10 +15,10 @@
         "1"
     ],
     "cool_plate_temp": [
-        "40"
+        "45"
     ],
     "cool_plate_temp_initial_layer": [
-        "40"
+        "45"
     ],
     "default_filament_colour": [
         "#EA140E"
@@ -33,7 +33,7 @@
         "1.062"
     ],
     "filament_max_volumetric_speed": [
-        "200"
+        "18"
     ],
     "filament_retraction_length": [
         "1"
