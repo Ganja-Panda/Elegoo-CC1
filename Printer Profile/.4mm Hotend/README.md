@@ -8,6 +8,7 @@ This README explains the **custom Start G-Code** included in this profile and ho
 # 🧩 When You MUST Run the One-Time Heated Mesh  
 You only need to perform Stage 2 (Heated Mesh) when:
 
+- first time you import the profile,
 - you change to a **different build plate**,  
 - you change **bed temperature significantly**, or  
 - you **reset/clear** the stored mesh.
