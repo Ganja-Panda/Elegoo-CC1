@@ -14,6 +14,7 @@ You only need to perform Stage 2 (Heated Mesh) when:
 - you **reset/clear** the stored mesh.
 
 If you already have a correct Z-offset and the mesh matches your plate & temp, you **do NOT** need to run Stage 2 again.
+Running BED_MESH_CALIBRATE does not clear your Z-offset.
 
 ---
 
