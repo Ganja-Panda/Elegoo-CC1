@@ -114,6 +114,76 @@ No fluff. No bloat. Just real printer settings.
 
 ---
 
+# 📥 How to Download Files from This Repository
+
+This guide walks you through **three simple ways** to download files from this repo — whether you only need one file, the full project, or a stable release.
+
+No GitHub experience required.  
+No judgment. Just clear steps.
+
+---
+
+## 🔹 Option 1 — Download a Single File
+
+Use this if you only need **one file**.
+
+1. Click the file you want from the file list.
+2. When the file opens, click **“Download raw file”** (usually near the top right).
+3. The file will download directly to your computer.
+
+✅ Best for:
+- Single configuration files  
+- Individual profiles  
+- One-off assets  
+
+---
+
+## 🔹 Option 2 — Download the Entire Repository
+
+Use this if you want **everything in one download**.
+
+1. On the main repository page, click the green **`Code`** button.
+2. Select **“Download ZIP”**.
+3. Once downloaded, unzip the folder anywhere you like.
+
+✅ Best for:
+- Full setups  
+- Browsing all files  
+- Keeping everything organized  
+
+---
+
+## 🔹 Option 3 — Download a Release (Recommended)
+
+Releases are packaged, tested versions of the project.
+
+1. Click **“Releases”** on the right side of the repository page.
+2. Select the most recent release.
+3. Under **Assets**, download the `.zip` or `.tar.gz` file.
+4. Extract the files like any normal archive.
+
+✅ Best for:
+- Stable versions  
+- Plug-and-play use  
+- Avoiding experimental changes  
+
+---
+
+## 🧠 Helpful Notes
+- You do **not** need Git or special software to download files.
+- If something doesn’t load right away, try refreshing the page.
+- You can always return later to download updated versions.
+
+---
+
+## 💬 Need Help?
+If something isn’t clear or you get stuck, that’s okay — everyone starts somewhere.  
+Check the project notes or documentation for updates and guidance.
+
+You’re good to go. 👍
+
+---
+
 ## 📜 License
 
 MIT License.  
