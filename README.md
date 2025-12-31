@@ -255,4 +255,9 @@ You’re good to go. 🚀****
 
 MIT License.  
 Use it, modify it, sacrifice it to the filament gods.  
-Just don’t blame me if your printer becomes self-aware.
+Just don’t blame me if your printer becomes self-aware.  
+
+---
+
+*If this helped you, a star is always appreciated.*
+
